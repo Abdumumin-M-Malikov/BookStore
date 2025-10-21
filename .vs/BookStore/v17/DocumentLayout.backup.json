@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\WEB_API\\BookStoreApi\\",
+  "WorkspaceRootPath": "D:\\Projects\\C#\\BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\WEB_API\\BookStoreApi\\CatologService\\Migrations\\20251021045736_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CatologService\\Migrations\\20251021045736_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|d:\\projects\\c#\\bookstore\\catologservice\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|solutionrelative:catologservice\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|d:\\project\\web_api\\bookstoreapi\\catologservice\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|solutionrelative:catologservice\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|d:\\projects\\c#\\bookstore\\catologservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|solutionrelative:catologservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|d:\\project\\web_api\\bookstoreapi\\catologservice\\data\\catalogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|d:\\projects\\c#\\bookstore\\catologservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|solutionrelative:catologservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|d:\\projects\\c#\\bookstore\\catologservice\\data\\catalogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|solutionrelative:catologservice\\data\\catalogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|d:\\project\\web_api\\bookstoreapi\\catologservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|solutionrelative:catologservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|d:\\projects\\c#\\bookstore\\catologservice\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25B0737-EDF0-4659-AF33-56C38655234B}|CatologService\\CatologService.csproj|solutionrelative:catologservice\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +30,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251021045736_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Project\\WEB_API\\BookStoreApi\\CatologService\\Migrations\\20251021045736_InitialCreate.cs",
-              "RelativeDocumentMoniker": "CatologService\\Migrations\\20251021045736_InitialCreate.cs",
-              "ToolTip": "D:\\Project\\WEB_API\\BookStoreApi\\CatologService\\Migrations\\20251021045736_InitialCreate.cs",
-              "RelativeToolTip": "CatologService\\Migrations\\20251021045736_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T04:57:36.864Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\C#\\BookStore\\CatologService\\appsettings.json",
+              "RelativeDocumentMoniker": "CatologService\\appsettings.json",
+              "ToolTip": "D:\\Projects\\C#\\BookStore\\CatologService\\appsettings.json",
+              "RelativeToolTip": "CatologService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T10:28:51.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\BookStore\\CatologService\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "CatologService\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Projects\\C#\\BookStore\\CatologService\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "CatologService\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T05:26:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\WEB_API\\BookStoreApi\\CatologService\\Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\BookStore\\CatologService\\Program.cs",
               "RelativeDocumentMoniker": "CatologService\\Program.cs",
-              "ToolTip": "D:\\Project\\WEB_API\\BookStoreApi\\CatologService\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\BookStore\\CatologService\\Program.cs",
               "RelativeToolTip": "CatologService\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T03:57:07.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CatalogDbContext.cs",
-              "DocumentMoniker": "D:\\Project\\WEB_API\\BookStoreApi\\CatologService\\Data\\CatalogDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\BookStore\\CatologService\\Data\\CatalogDbContext.cs",
               "RelativeDocumentMoniker": "CatologService\\Data\\CatalogDbContext.cs",
-              "ToolTip": "D:\\Project\\WEB_API\\BookStoreApi\\CatologService\\Data\\CatalogDbContext.cs",
+              "ToolTip": "D:\\Projects\\C#\\BookStore\\CatologService\\Data\\CatalogDbContext.cs",
               "RelativeToolTip": "CatologService\\Data\\CatalogDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T03:51:24.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T03:51:24.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Project\\WEB_API\\BookStoreApi\\CatologService\\Models\\Book.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\BookStore\\CatologService\\Models\\Book.cs",
               "RelativeDocumentMoniker": "CatologService\\Models\\Book.cs",
-              "ToolTip": "D:\\Project\\WEB_API\\BookStoreApi\\CatologService\\Models\\Book.cs",
+              "ToolTip": "D:\\Projects\\C#\\BookStore\\CatologService\\Models\\Book.cs",
               "RelativeToolTip": "CatologService\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T03:50:23.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T03:50:23.896Z"
             }
           ]
         }
