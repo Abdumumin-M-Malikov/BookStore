@@ -28,6 +28,7 @@ namespace CatologService.Controllers
             if(book==null) return NotFound();
             return Ok(book);
         }
+
         [HttpPost]
         public async Task<IActionResult> Create(Book book)
         {
@@ -35,6 +36,7 @@ namespace CatologService.Controllers
             await _context.SaveChangesAsync();
             return CreatedAtAction(nameof(Get), new { id = book.Id}, book);
         }
+       
         [HttpPut("{id:int}")]
         public async Task<IActionResult> Update(int id, Book book)
         {
@@ -45,6 +47,7 @@ namespace CatologService.Controllers
             await _context.SaveChangesAsync();
             return NoContent();
         }
+        
         [HttpDelete("id:int")]
         public async Task<IActionResult> Delete(int id)
         {
